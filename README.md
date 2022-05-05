@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhanad Taha
 - 👀 I’m interested in developing myself in the field of backend.
 - 🌱 I’m currently learning .Net MVC Core.
-- 💞️ I’m looking to collaborate on with other devlopers.
+- 💞️ I’m looking to collaborate on with other developers.
 
 
 <!---
