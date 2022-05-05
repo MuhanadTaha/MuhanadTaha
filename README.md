@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MuhanadTaha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhanad Taha
+- 👀 I’m interested in developing myself in the field of backend.
+- 🌱 I’m currently learning .Net MVC Core.
+- 💞️ I’m looking to collaborate on with other devlopers.
+
 
 <!---
 MuhanadTaha/MuhanadTaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
