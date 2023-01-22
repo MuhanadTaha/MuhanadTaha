@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhanad Taha
 - 👀 I’m interested in developing myself in the field of backend.
-- 🌱 I’m currently learning .Net MVC Core.
+- 🌱 I’m currently learning Angular Framework to become a full stack developer.
 - 💞️ I’m looking to collaborate on with other developers.
 
 
